@@ -1,6 +1,6 @@
 FROM fedora:latest
 
-LABEL updated_at '2017-11-01'
+LABEL updated_at '2017-12-15'
 
 RUN dnf -y install gpg perl perl-Getopt-Long perl-Digest-MD5 tar wget && \
   cd /usr/local/src && \
