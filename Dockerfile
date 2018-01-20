@@ -1,8 +1,8 @@
 FROM fedora:latest
 
-LABEL updated_at '2017-12-15'
+LABEL updated_at '2018-01-20'
 
-RUN dnf -y install gpg perl perl-Getopt-Long perl-Digest-MD5 tar wget && \
+RUN dnf -y install gpg perl perl-Getopt-Long perl-Digest-MD5 tar wget fontconfig && \
   cd /usr/local/src && \
   curl -sL http://mirror.ctan.org/systems/texlive/tlnet/install-tl-unx.tar.gz | tar zxf - && \
   mv install-tl-20* install-tl && \
