@@ -1,6 +1,6 @@
 FROM fedora:latest
 
-LABEL updated_at '2018-01-20'
+LABEL updated_at '2018-05-02'
 
 RUN dnf -y install gpg perl perl-Getopt-Long perl-Digest-MD5 tar wget fontconfig && \
   cd /usr/local/src && \
