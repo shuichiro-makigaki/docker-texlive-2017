@@ -1,5 +1,9 @@
 [![Docker Automated build](https://img.shields.io/docker/automated/makisyu/texlive-2017.svg)](https://hub.docker.com/r/makisyu/texlive-2017/) [![Docker Build Status](https://img.shields.io/docker/build/makisyu/texlive-2017.svg)](https://hub.docker.com/r/makisyu/texlive-2017/)
 
+**TeX Live 2017 has been frozen since 3 March 2018** for TeX Live 2018 release preparation. *No more updates for it forever.*
+
+Please note that this is good news. Thank you and good bye, TeX Live 2017!
+
 # Dockerfile for TeX Live 2017
 
 This is a Dockerfile repository of TeX Live 2017 with scheme-full profile. (Almost) monthly updated.
