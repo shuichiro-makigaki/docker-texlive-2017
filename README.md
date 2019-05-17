@@ -2,7 +2,7 @@
 
 **TeX Live 2017 has been frozen since 3 March 2018** for TeX Live 2018 release preparation. *No more updates for it forever.*
 
-Please note that this is good news. Thank you and good bye, TeX Live 2017!
+Thank you and good bye, TeX Live 2017!
 
 # Dockerfile for TeX Live 2017
 
